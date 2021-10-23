@@ -11,3 +11,16 @@
     color: var(--primary-white) !important;
 }
 
+.input-layout{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid ;
+    border-radius: 10px;
+}
+.input-layout input{
+    width: 80%;
+    margin: 5px 0 10px 0;
+}
