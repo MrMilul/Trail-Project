@@ -1,6 +1,3 @@
-This project is coded for Trail System company as a pre-assignment
-
-
 In this project, I used the below technologies:
 
 react.js(Hooks, react-router-dom)
